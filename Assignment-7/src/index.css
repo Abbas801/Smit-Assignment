@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  color: #202721;
+  background: #f3f5f1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { box-sizing: border-box; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button { font: inherit; }
